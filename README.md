@@ -7,6 +7,7 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -33,4 +34,8 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
