@@ -21,6 +21,7 @@ My solutions to some LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -38,4 +39,8 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
