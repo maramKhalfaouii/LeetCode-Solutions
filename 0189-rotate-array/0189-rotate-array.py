@@ -1,15 +1,17 @@
 class Solution(object):
-    def reverse(self, array, start, end):
-        while start < end:
-            array[start], array[end]=array[end], array[start]
-            start+=1
-            end-=1
+    
             
     def rotate(self, nums, k):
+        def reverse(start, end):
+            while start < end:
+                nums[start], nums[end]=nums[end], nums[start]
+                start+=1
+                end-=1
+
         k%=len(nums)
-        self.reverse(nums, 0, len(nums)-1)
-        self.reverse(nums, 0, k-1)
-        self.reverse(nums, k, len(nums)-1)
+        reverse( 0, len(nums)-1)
+        reverse( 0, k-1)
+        reverse( k, len(nums)-1)
         
         
 
