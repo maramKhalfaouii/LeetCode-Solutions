@@ -1,17 +1,12 @@
 class Solution(object):
     def majorityElement(self, nums):
-        hash=dict()
-        for i in nums:
-            if i in hash.keys():
-                hash[i]+=1
-            else:
-                hash[i]=1
-        
+        hash={}
         f=0
         maj=-1
-        for i in hash:
-            if hash[i]>f:
-                f=hash[i]
+        for i in nums:
+            hash[i] = 1 + hash.get(i, 0)
+            if hash[i]>maj:
                 res=i
+                maj=hash[i]
         return res
         
