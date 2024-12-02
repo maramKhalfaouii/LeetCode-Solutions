@@ -17,6 +17,7 @@ My solutions to some LeetCode problems
 | [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +70,8 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
