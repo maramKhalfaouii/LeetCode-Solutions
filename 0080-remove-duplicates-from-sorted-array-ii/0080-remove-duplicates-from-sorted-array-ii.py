@@ -1,9 +1,17 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        k,n=0,len(nums)
-        for i in range(n):
-            if i+2>=len(nums) or nums[i]!=nums[i+2]:
-                nums[k]=nums[i]
+        k,r,n,ans=1,1,len(nums),1
+        for i in range(n-1):
+            if nums[i]==nums[i+1]:
+                r+=1
+                if r < 3:
+                    nums[k]=nums[i]
+                    ans+=1
+                    k+=1
+            else:
+                r=1
+                nums[k]=nums[i+1]
+                ans+=1
                 k+=1
-        return k
+        return ans
         
