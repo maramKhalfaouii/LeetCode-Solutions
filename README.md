@@ -6,6 +6,7 @@ My solutions to some LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -27,6 +28,7 @@ My solutions to some LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
