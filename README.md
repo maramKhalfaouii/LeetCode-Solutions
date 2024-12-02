@@ -11,6 +11,7 @@ My solutions to some LeetCode problems
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -36,11 +37,13 @@ My solutions to some LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -50,4 +53,12 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
