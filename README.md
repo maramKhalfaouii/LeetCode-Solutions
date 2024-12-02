@@ -7,6 +7,7 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -18,11 +19,13 @@ My solutions to some LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
