@@ -36,6 +36,7 @@ My solutions to some LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -48,6 +49,7 @@ My solutions to some LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -63,6 +65,7 @@ My solutions to some LeetCode problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
 |  |
