@@ -36,6 +36,7 @@ My solutions to some LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@ My solutions to some LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -65,6 +67,7 @@ My solutions to some LeetCode problems
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
