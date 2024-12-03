@@ -69,6 +69,7 @@ My solutions to some LeetCode problems
 | ------- |
 | [0012-integer-to-roman](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
@@ -83,4 +84,8 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
