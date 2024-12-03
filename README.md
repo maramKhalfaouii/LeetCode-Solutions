@@ -46,6 +46,7 @@ My solutions to some LeetCode problems
 | [0027-remove-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ My solutions to some LeetCode problems
 | [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
 |  |
