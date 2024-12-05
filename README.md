@@ -14,6 +14,7 @@ My solutions to some LeetCode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -33,6 +34,7 @@ My solutions to some LeetCode problems
 | [0055-jump-game](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0135-candy) |
 ## Math
 |  |
 | ------- |
