@@ -27,6 +27,7 @@ My solutions to some LeetCode problems
 | [0055-jump-game](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My solutions to some LeetCode problems
 | [0125-valid-palindrome](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ My solutions to some LeetCode problems
 | [0125-valid-palindrome](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
