@@ -4,11 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        newString=""
         if len(s)==1:
             return True
+        s = s.lower().replace(' ','')
         for c in s:
-            if ord(lower(c))>=ord('a') and ord(lower(c))<=ord('z') and c!=" " or c.isnumeric()  :
-                newString+=lower(c)
-        return newString==newString[::-1]
+            if (ord(c)<ord('a') or ord(c)>ord('z')) and not c.isnumeric() :
+                s = s.replace(c,'')
+
+        return s==s[::-1]
         
