@@ -5,16 +5,12 @@ class Solution(object):
         :type magazine: str
         :rtype: bool
         """
-        letters={}
-        for c in magazine:
-            if c in letters:
-                letters[c]+=1
-            else:
-                letters[c]=1
-        for c in ransomNote:
-            if c in letters and letters[c]>0:
-                letters[c]-=1
-            else :
+        if len(ransomNote) > len(magazine):
+            return False
+
+        for char in list(set(ransomNote)):
+            if ransomNote.count(char) > magazine.count(char):
                 return False
+
         return True
         
