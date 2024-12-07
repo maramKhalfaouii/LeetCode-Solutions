@@ -9,6 +9,7 @@ My solutions to some LeetCode problems
 | [0027-remove-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ My solutions to some LeetCode problems
 | [0009-palindrome-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
