@@ -22,6 +22,7 @@ My solutions to some LeetCode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ My solutions to some LeetCode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Trie
 |  |
@@ -121,6 +123,7 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -133,4 +136,8 @@ My solutions to some LeetCode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/maramKhalfaouii/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
